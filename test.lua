@@ -18,7 +18,7 @@ local function test_fastsearch(data)
 	print("love new york ->", k.search("love new york", true))
 end
 
---this must be a big dataset
+--this must be a big dataset ..
 data = {
 			{1, 'i love my cat'},
             {2, 'new york is the best city'},
