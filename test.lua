@@ -24,7 +24,6 @@ data = {
             {2, 'new york is the best city'},
             {3, 'what are we looking for'},
             {4, 'i love beach'},
-            {5, 'that fuck man in the city kfcu'},
             {6, 'quick and fast cat'},
             {7, 'germany got the worldcup'},
             {8, 'karach karachi has great restaurants'}
